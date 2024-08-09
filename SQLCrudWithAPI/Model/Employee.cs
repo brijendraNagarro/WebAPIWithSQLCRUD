@@ -5,7 +5,7 @@
 
         public int EmployeeID {  get; set; }
         public string EmployeeName { get; set; }
-        public string EmployeeContact { get; set; }
+        public long EmployeeContact { get; set; }
         public string EmployeeEmail { get; set; }
     }
 }
