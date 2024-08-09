@@ -1,0 +1,6 @@
+@SQLCrudWithAPI_HostAddress = http://localhost:5218
+
+GET {{SQLCrudWithAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
